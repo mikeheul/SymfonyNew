@@ -16,10 +16,13 @@ This is a Symfony-based web application skeleton for new project.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/mikeheul/SymfonyNew.git [name_repo]
+    make sfnew-clone
     ```
-2. Composer install
 
-    ```bash
+2. Name the repo
+
+3. Composer install
+   
+   ```bash
     composer install
     ```
